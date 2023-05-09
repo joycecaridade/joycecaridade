@@ -1,12 +1,11 @@
-Hi 👋 My name is Joyce Caridade!
-================================
+### Hi, I'm JOYCE 👋
 
-a computer science student, a year to graduate, and studying to become a front-end developer.
----------------------------------------------------------------------------------------------
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-* 🌍  I'm based in Macapá, Brazil
-* ✉️  You can contact me at [joycexcaridade@gmail.com](mailto:joycexcaridade@gmail.com)
-* 🧠  I'm learning HTML, CSS & JS.
+- 🔭 I’m currently a CS student at Anhanguera/AP.
+- 📚 I’m currently learning HTML, CSS & JS.
+- 👯 I’m looking for a chance to work in Web Development.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joyce-caridade-93415819b) [Gmail](mailto:joycecaridade@gmail.com)
 
 ### Skills
 
@@ -19,14 +18,7 @@ a computer science student, a year to graduate, and studying to become a front-e
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/joycecaridade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joyce-caridade-93415819b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/joycecaridade"><img src="https://github-readme-stats.vercel.app/api?username=joycecaridade&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joycecaridade's GitHub stats" /></a>
 
