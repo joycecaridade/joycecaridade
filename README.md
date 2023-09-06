@@ -20,4 +20,4 @@
 
 ### <b>My GitHub Stats</b>
 
-![snake gif](https://github.com/joycecaridade/joycecaridade/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/joycecaridade/joycecaridade/blob/output/github-contribution-grid-snake.svg)
